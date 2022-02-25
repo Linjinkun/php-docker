@@ -8,6 +8,8 @@
 
 > 官方 PHP 版本生命周期参考 [PHP 版本支持](https://www.php.net/supported-versions.php)
 
-- [`PHP` 官方镜像](https://hub.docker.com/_/php)
-- [扩展安装工具](https://github.com/mlocati/docker-php-extension-installer)
+- [=》PHP 官方镜像](https://hub.docker.com/_/php)
+- [=》 扩展安装工具](https://github.com/mlocati/docker-php-extension-installer)
 - 基于 `GitHub Actions`  main 分支 push 触发
+- [=》镜像仓库地址](https://hub.docker.com/r/jkobe824/php)
+
